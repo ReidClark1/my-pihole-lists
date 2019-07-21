@@ -589,3 +589,5 @@ youtube-nocookie.com
 youtube-ui.l.google.com
 yt3.ggpht.com
 zecweb.antpool.com
+resy.com
+www.resy.com
