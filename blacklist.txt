@@ -3010,3 +3010,8 @@ r6---sn-a5mekney.googlevideo.com
 r6---sn-a5mlrn7d.googlevideo.com
 r6---sn-a5mlrn7k.googlevideo.com
 r6---sn-a5mlrnel.googlevideo.com
+r1---sn-a5mlrnez.googlevideo.com
+r2---sn-a5meknll.googlevideo.com
+r2---sn-a5msen76.googlevideo.com
+r6---sn-a5m7lnlz.googlevideo.com
+r6---sn-a5mlrn7r.googlevideo.com
