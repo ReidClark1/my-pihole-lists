@@ -3058,3 +3058,7 @@ r6---sn-a5meknl7.googlevideo.com
 r1---sn-a5meknll.googlevideo.com
 r1---sn-a5mlrn7z.googlevideo.com
 r6---sn-a5mekn7y.googlevideo.com
+r3---sn-a5mlrn76.googlevideo.com
+r3---sn-a5mlrnez.googlevideo.com
+192.168.69.160
+r3---sn-vgqsrnll.googlevideo.com
