@@ -591,3 +591,4 @@ yt3.ggpht.com
 zecweb.antpool.com
 resy.com
 www.resy.com
+aad.portal.azure.com
