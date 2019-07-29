@@ -3129,3 +3129,5 @@ r4---sn-a5msen7s.googlevideo.com
 r5---sn-a5meknl6.googlevideo.com
 r5---sn-a5mlrn7l.googlevideo.com
 r6---sn-a5meknee.googlevideo.com
+r1---sn-a5meknek.googlevideo.com
+r1---sn-a5msen7z.googlevideo.com
