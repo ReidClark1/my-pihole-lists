@@ -592,3 +592,7 @@ zecweb.antpool.com
 resy.com
 www.resy.com
 aad.portal.azure.com
+www.img.roku.com
+wwwimg.roku.com
+mg.roku.com
+longview.sw.roku.com
