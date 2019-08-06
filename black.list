@@ -9166,3 +9166,13 @@ r5---sn-a5mlrn7z.googlevideo.com
  r3---sn--hp57knzz.googlevideo.com
  r5---sn--oguesnzz.googlevideo.com
  r5---sn--8qj-i5ozz.googlevideo.com
+192.168.69.177 0.0.0.0
+192.168.69.177 1.0.0.1
+192.168.69.177 192.168.69.167
+192.168.69.177 192.168.69.4
+192.168.69.177 <CNAME>
+ 0.0.0.0
+ 1.0.0.1
+ 192.168.69.167
+ 192.168.69.4
+ <CNAME>
