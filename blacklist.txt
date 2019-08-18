@@ -3209,3 +3209,6 @@ r5---sn-vgqsknlz.googlevideo.com
 r3---sn-a5mekner.googlevideo.com
 r3---sn-a5meknes.googlevideo.com
 r4---sn-a5msen7z.googlevideo.com
+r1---sn-a5mekned.googlevideo.com
+r1---sn-a5mlrnel.googlevideo.com
+r4---sn-a5mekner.googlevideo.com
