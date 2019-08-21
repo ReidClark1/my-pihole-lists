@@ -3222,3 +3222,5 @@ r2---sn-a5mekn7r.googlevideo.com
 r6---sn-a5mekn7d.googlevideo.com
 r2---sn-a5mekn7k.googlevideo.com
 r5---sn-a5mekn7r.googlevideo.com
+r2---sn-a5mekner.googlevideo.com
+r1---sn-a5mlrn7y.googlevideo.com
