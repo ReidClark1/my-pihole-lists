@@ -3231,3 +3231,5 @@ r4---sn-o097znld.googlevideo.com
 r2---sn-a5meknee.googlevideo.com
 r2---sn-a5meknes.googlevideo.com
 r4---sn-a5mlrn76.googlevideo.com
+r1---sn-x1x7dn7z.googlevideo.com
+r6---sn-o097znl6.googlevideo.com
