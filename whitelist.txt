@@ -601,3 +601,4 @@ liberty.sw.roku.com
 self.events.data.microsoft.com
 fast.wistia.com
 mobile.pipe.aria.microsoft.com
+traffic.megaphone.fm
