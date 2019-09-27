@@ -603,3 +603,8 @@ fast.wistia.com
 mobile.pipe.aria.microsoft.com
 traffic.megaphone.fm
 redirector.gvt1.com
+mobilenetworkscoring-pa.googleapis.com
+liberty.logs.roku.com
+scribe.logs.roku.com
+firmware.roku.com
+longview.ib.roku.com
