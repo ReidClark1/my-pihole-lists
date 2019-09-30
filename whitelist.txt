@@ -608,3 +608,11 @@ liberty.logs.roku.com
 scribe.logs.roku.com
 firmware.roku.com
 longview.ib.roku.com
+channelstore.roku.com
+blog.roku.com
+my.roku.com
+owner.roku.com
+roku.com
+www.roku.com
+owner.web.roku.com
+cigars.roku.com
