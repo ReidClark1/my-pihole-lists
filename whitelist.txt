@@ -616,3 +616,8 @@ roku.com
 www.roku.com
 owner.web.roku.com
 cigars.roku.com
+cooper.logs.roku.com
+lat-services.api.data.roku.com
+liberty.sb.roku.com
+keysvc.cs.roku.com
+cooper.sw.roku.com
