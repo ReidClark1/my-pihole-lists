@@ -621,3 +621,8 @@ lat-services.api.data.roku.com
 liberty.sb.roku.com
 keysvc.cs.roku.com
 cooper.sw.roku.com
+combine.urbanairship.com
+device-api.urbanairship.com
+remote-data.urbanairship.com
+beacons.gvt2.com
+beacons.gcp.gvt2.com
