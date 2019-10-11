@@ -626,3 +626,4 @@ device-api.urbanairship.com
 remote-data.urbanairship.com
 beacons.gvt2.com
 beacons.gcp.gvt2.com
+dc.services.visualstudio.com
