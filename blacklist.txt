@@ -3305,3 +3305,4 @@ r3---sn-a5mekne7.googlevideo.com
 r3---sn-q4fl6ney.googlevideo.com
 r3---sn-vgqsdn7s.googlevideo.com
 r3---sn-o097znlk.googlevideo.com
+p.ads.roku.com
