@@ -3072,7 +3072,6 @@ r3---sn-a5meknee.googlevideo.com
 r3---sn-a5mlrnek.googlevideo.com
 r5---sn-a5mekne7.googlevideo.com
 r1---sn-a5meknlz.googlevideo.com
-r2---sn-a5mekney.googlevideo.com
 r2---sn-a5mlrn7y.googlevideo.com
 r3---sn-a5mlrn7k.googlevideo.com
 r1---sn-a5msen7l.googlevideo.com
@@ -3133,7 +3132,6 @@ r1---sn-a5meknek.googlevideo.com
 r1---sn-a5msen7z.googlevideo.com
 r1---sn-a5m7lnlz.googlevideo.com
 r1---sn-a5meknl6.googlevideo.com
-r2---sn-a5mlrn7k.googlevideo.com
 r3---sn-a5mekned.googlevideo.com
 r3---sn-o097znl6.googlevideo.com
 r4---sn-a5msen76.googlevideo.com
@@ -3306,3 +3304,5 @@ r3---sn-q4fl6ney.googlevideo.com
 r3---sn-vgqsdn7s.googlevideo.com
 r3---sn-o097znlk.googlevideo.com
 p.ads.roku.com
+r2---sn-a5mekney.googlevideo.com
+r2---sn-a5mlrn7k.googlevideo.com

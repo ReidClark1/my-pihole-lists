@@ -628,3 +628,6 @@ beacons.gvt2.com
 beacons.gcp.gvt2.com
 dc.services.visualstudio.com
 force.com
+r2---sn-a5mlrn7k.googlevideo.com
+r2---sn-a5mekney.googlevideo.com
+api.segment.io

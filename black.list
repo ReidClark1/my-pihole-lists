@@ -3072,7 +3072,6 @@ r3---sn-a5meknee.googlevideo.com
 r3---sn-a5mlrnek.googlevideo.com
 r5---sn-a5mekne7.googlevideo.com
 r1---sn-a5meknlz.googlevideo.com
-r2---sn-a5mekney.googlevideo.com
 r2---sn-a5mlrn7y.googlevideo.com
 r3---sn-a5mlrn7k.googlevideo.com
 r1---sn-a5msen7l.googlevideo.com
@@ -3133,7 +3132,6 @@ r1---sn-a5meknek.googlevideo.com
 r1---sn-a5msen7z.googlevideo.com
 r1---sn-a5m7lnlz.googlevideo.com
 r1---sn-a5meknl6.googlevideo.com
-r2---sn-a5mlrn7k.googlevideo.com
 r3---sn-a5mekned.googlevideo.com
 r3---sn-o097znl6.googlevideo.com
 r4---sn-a5msen76.googlevideo.com
@@ -9299,14 +9297,18 @@ p.ads.roku.com
  r5---sn--oguesnzz.googlevideo.com
  r5---sn--8qj-i5ozz.googlevideo.com
 192.168.69.177 0.0.0.0
+192.168.69.177 1.0.0.1
+192.168.69.177 1.1.1.1
+192.168.69.177 192.168.69.159
+192.168.69.177 192.168.69.166
 192.168.69.177 192.168.69.167
 192.168.69.177 192.168.69.4
+192.168.69.177 <CNAME>
  0.0.0.0
+ 1.0.0.1
+ 1.1.1.1
+ 192.168.69.159
+ 192.168.69.166
  192.168.69.167
  192.168.69.4
-192.168.69.177 192.168.69.159
- 192.168.69.159
-192.168.69.177 192.168.69.169
- 192.168.69.169
-192.168.69.177 192.168.69.165
- 192.168.69.165
+ <CNAME>
