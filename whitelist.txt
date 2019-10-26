@@ -631,3 +631,5 @@ force.com
 r2---sn-a5mlrn7k.googlevideo.com
 r2---sn-a5mekney.googlevideo.com
 api.segment.io
+m.stripe.network
+hello.myfonts.net
