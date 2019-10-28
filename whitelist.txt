@@ -367,3 +367,4 @@ api.roku.com
 cooper.logs.roku.com
 image.roku.com
 longview.sw.roku.com
+channels.roku.com
