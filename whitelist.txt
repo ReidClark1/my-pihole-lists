@@ -359,3 +359,11 @@ beacons.gcp.gvt2.com
 api.segment.io
 hello.myfonts.net
 r5---sn-a5mekner.googlevideo.com
+tis.cti.roku.com
+captive.roku.com
+liberty.logs.roku.com
+scribe.logs.roku.com
+api.roku.com
+cooper.logs.roku.com
+image.roku.com
+longview.sw.roku.com
