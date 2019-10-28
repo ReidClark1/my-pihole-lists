@@ -3309,3 +3309,5 @@ r4---sn-a5mlrnek.googlevideo.com
 r5---sn-a5mekner.googlevideo.com
 p.ads.roku.com
 r4---sn-a5meknzl.googlevideo.com
+r2---sn-a5meknzs.googlevideo.com
+r4---sn-a5meknzs.googlevideo.com
