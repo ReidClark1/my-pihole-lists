@@ -368,3 +368,10 @@ cooper.logs.roku.com
 image.roku.com
 longview.sw.roku.com
 channels.roku.com
+mobile.pipe.aria.microsoft.com
+www.roku.com
+my.roku.com
+cigars.roku.com
+liberty.sw.roku.com
+longview.ib.roku.com
+firmware.roku.com
