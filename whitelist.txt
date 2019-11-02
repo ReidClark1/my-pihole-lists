@@ -375,3 +375,8 @@ cigars.roku.com
 liberty.sw.roku.com
 longview.ib.roku.com
 firmware.roku.com
+r5---sn-a5meknzl.googlevideo.com
+r5---sn-a5mlrnez.googlevideo.com
+r3---sn-a5meknl6.googlevideo.com
+r3---sn-a5msen7l.googlevideo.com
+r3---sn-a5meknzs.googlevideo.com
