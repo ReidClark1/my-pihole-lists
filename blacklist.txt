@@ -1997,7 +1997,6 @@ r4---sn--o097znlr.googlevideo.com
 r10---sn--n8v7znlr.googlevideo.com
 r4---sn--n8v7znlr.googlevideo.com
 r7---sn--8pxuuxa-i5or.googlevideo.com
-redirector.googlevideo.com
 r1---sn--4g5e6nsr.googlevideo.com
 r2---sn--4g5e6nsr.googlevideo.com
 r3---sn--4g5e6nsr.googlevideo.com
@@ -3115,7 +3114,6 @@ r5---sn-a5ms7n7l.googlevideo.com
 r6---sn-a5meknl6.googlevideo.com
 r6---sn-a5mlrn76.googlevideo.com
 r1---sn-a5meknee.googlevideo.com
-r2---sn-a5mlrn7d.googlevideo.com
 r2---sn-a5mlrn7r.googlevideo.com
 r2---sn-a5msen7s.googlevideo.com
 r4---sn-a5msen7s.googlevideo.com
@@ -3137,7 +3135,6 @@ r5---sn-a5mlrn76.googlevideo.com
 r2---sn-o097znlk.googlevideo.com
 r1---sn-a5mekn7k.googlevideo.com
 r1---sn-a5meknes.googlevideo.com
-r2---sn-a5meknl6.googlevideo.com
 r3---sn-a5mlrn7z.googlevideo.com
 r4---sn-a5meknl7.googlevideo.com
 r4---sn-a5meknle.googlevideo.com
