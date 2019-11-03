@@ -3310,3 +3310,6 @@ r3---sn-a5meknzs.googlevideo.com
 r3---sn-a5msen7l.googlevideo.com
 r5---sn-a5meknzl.googlevideo.com
 r5---sn-a5mlrnez.googlevideo.com
+redirector.googlevideo.com
+r2---sn-a5meknl6.googlevideo.com
+r2---sn-a5mlrn7d.googlevideo.com
