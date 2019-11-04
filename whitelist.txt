@@ -383,3 +383,11 @@ r3---sn-a5meknzs.googlevideo.com
 redirector.googlevideo.com
 r2---sn-a5meknl6.googlevideo.com
 r2---sn-a5mlrn7d.googlevideo.com
+midland.sw.roku.com
+midland.sb.roku.com
+r1---sn-a5meknsy.googlevideo.com
+r1---sn-a5msen7l.googlevideo.com
+redirect.viglink.com
+midland.logs.roku.com
+owner.web.roku.com
+keysvc.cs.roku.com
