@@ -391,3 +391,5 @@ redirect.viglink.com
 midland.logs.roku.com
 owner.web.roku.com
 keysvc.cs.roku.com
+mobile-collector.newrelic.com
+traffic.megaphone.fm

@@ -3311,6 +3311,9 @@ r5---sn-a5mlrnez.googlevideo.com
 redirector.googlevideo.com
 r2---sn-a5meknl6.googlevideo.com
 r2---sn-a5mlrn7d.googlevideo.com
+r1---sn-a5meknsy.googlevideo.com
+r1---sn-a5msen7l.googlevideo.com
+r1---sn-a5meknzs.googlevideo.com
 192.168.69.177 r4---sn--cxaaj5o5q5-tt16.googlevideo.com
 192.168.69.177 r3---sn--q5u5bgv02-3c26.googlevideo.com
 192.168.69.177 r12---sn--bvvbax-hn26.googlevideo.com
@@ -9304,26 +9307,6 @@ r2---sn-a5mlrn7d.googlevideo.com
  r5---sn--oguesnzz.googlevideo.com
  r5---sn--8qj-i5ozz.googlevideo.com
 192.168.69.177 0.0.0.0
-192.168.69.177 1.0.0.1
-192.168.69.177 192.168.69.165
-192.168.69.177 192.168.69.167
-192.168.69.177 192.168.69.4
-192.168.69.177 9.9.9.9
-192.168.69.177 <CNAME>
- 0.0.0.0
- 1.0.0.1
- 192.168.69.165
- 192.168.69.167
- 192.168.69.4
- 9.9.9.9
- <CNAME>
 192.168.69.177 192.168.69.159
+ 0.0.0.0
  192.168.69.159
-192.168.69.177 1.1.1.1
- 1.1.1.1
-192.168.69.177 192.168.69.169
- 192.168.69.169
-192.168.69.177 149.112.112.112
- 149.112.112.112
-192.168.69.177 192.168.69.156
- 192.168.69.156
