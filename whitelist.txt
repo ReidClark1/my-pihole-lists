@@ -393,3 +393,6 @@ owner.web.roku.com
 keysvc.cs.roku.com
 mobile-collector.newrelic.com
 traffic.megaphone.fm
+www.examcollection.com
+click.linksynergy.com
+www.ojrq.net
