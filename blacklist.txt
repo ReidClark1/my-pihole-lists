@@ -3316,3 +3316,5 @@ r1---sn-a5msen7l.googlevideo.com
 r1---sn-a5meknzs.googlevideo.com
 
 r1---sn-a5meknzl.googlevideo.com
+r1---sn-vgqsrnll.googlevideo.com
+r3---sn-a5meknzl.googlevideo.com
