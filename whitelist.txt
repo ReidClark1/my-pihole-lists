@@ -401,3 +401,4 @@ dc.services.visualstudio.com
 self.events.data.microsoft.com
 activity.windows.com
 www.google-analytics.com
+api.mapbox.com
