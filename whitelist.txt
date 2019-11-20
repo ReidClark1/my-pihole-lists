@@ -396,3 +396,8 @@ traffic.megaphone.fm
 www.examcollection.com
 click.linksynergy.com
 www.ojrq.net
+stream.useriq.com
+dc.services.visualstudio.com
+self.events.data.microsoft.com
+activity.windows.com
+www.google-analytics.com
