@@ -402,3 +402,6 @@ self.events.data.microsoft.com
 activity.windows.com
 www.google-analytics.com
 api.mapbox.com
+channelstore.roku.com
+configsvc.cs.roku.com
+cloudservices.roku.com
