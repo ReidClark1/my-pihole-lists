@@ -405,3 +405,4 @@ api.mapbox.com
 channelstore.roku.com
 configsvc.cs.roku.com
 cloudservices.roku.com
+r3---sn-a5meknsy.googlevideo.com
