@@ -410,3 +410,14 @@ developer.roku.com
 community.roku.com
 sdkdocs.roku.com
 traffic.omny.fm
+continuum.dds.microsoft.com
+adl.windows.com
+settings-win.data.microsoft.com
+fp.msedge.net
+vortex.data.microsoft.com
+settings.data.microsoft.com
+dmd.metaservices.microsoft.com
+nexusrules.officeapps.live.com
+watson.telemetry.microsoft.com
+app-measurement.com
+api.sr.roku.com
