@@ -421,3 +421,5 @@ nexusrules.officeapps.live.com
 watson.telemetry.microsoft.com
 app-measurement.com
 api.sr.roku.com
+api2.sr.roku.com
+amoeba.web.roku.com
