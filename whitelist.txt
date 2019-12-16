@@ -423,3 +423,14 @@ app-measurement.com
 api.sr.roku.com
 api2.sr.roku.com
 amoeba.web.roku.com
+mobilenetworkscoring-pa.googleapis.com
+www.googletagmanager.com
+tags.tiqcdn.com
+d.agkn.com
+p.teads.tv
+servedby.flashtalking.com
+dpm.demdex.net
+cbsi.demdex.net
+stags.bluekai.com
+a.tribalfusion.com
+blog.roku.com
