@@ -435,3 +435,12 @@ stags.bluekai.com
 a.tribalfusion.com
 blog.roku.com
 arc.msn.com
+telemetry.servers.getgo.com
+device-api.urbanairship.com
+remote-data.urbanairship.com
+logging.getgo.com
+geolocation.onetrust.com
+cdn.krxd.net
+vmss.boldchat.com
+fast.appcues.com
+sentry.io
