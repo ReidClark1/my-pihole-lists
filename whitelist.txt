@@ -444,3 +444,4 @@ cdn.krxd.net
 vmss.boldchat.com
 fast.appcues.com
 sentry.io
+traffic.libsyn.com
