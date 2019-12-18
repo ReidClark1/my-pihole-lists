@@ -445,3 +445,4 @@ vmss.boldchat.com
 fast.appcues.com
 sentry.io
 traffic.libsyn.com
+analytics.homebotapp.com
