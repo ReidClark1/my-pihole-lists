@@ -446,3 +446,8 @@ fast.appcues.com
 sentry.io
 traffic.libsyn.com
 analytics.homebotapp.com
+config.outturner.com
+pinpoint.us-east-1.amazonaws.com
+metrics.cnn.com
+manifest.auditude.com
+pcor5.manifest.auditude.com
