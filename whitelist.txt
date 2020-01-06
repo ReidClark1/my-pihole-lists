@@ -423,3 +423,13 @@ api.roku.com
 beacons3.gvt2.com
 api.sr.roku.com
 wwwimg.roku.com
+keysvc.cs.roku.com
+cigars.roku.com
+api2.sr.roku.com
+amoeba.web.roku.com
+images.sr.roku.com
+images-svc.sr.roku.com
+content.sr.roku.com
+rights-manager.sr.roku.com
+track.sr.roku.com
+traces.sr.roku.com
