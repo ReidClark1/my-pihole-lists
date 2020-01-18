@@ -434,3 +434,4 @@ rights-manager.sr.roku.com
 track.sr.roku.com
 traces.sr.roku.com
 midland.sw.roku.com
+cloudservices.roku.com
