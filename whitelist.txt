@@ -437,3 +437,4 @@ midland.sw.roku.com
 cloudservices.roku.com
 support.roku.com
 ads2.xumo.com
+accounts.nvgs.nvidia.com
