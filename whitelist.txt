@@ -439,3 +439,4 @@ support.roku.com
 ads2.xumo.com
 accounts.nvgs.nvidia.com
 browser.pipe.aria.microsoft.com
+disney.demdex.net
