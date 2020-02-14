@@ -20,3 +20,6 @@ p.ads.roku.com
 
 192.168.69.5
 securepubads.g.doubleclick.net
+cloud.posofett-hod.com
+ww2.posofett-hod.com
+www3.posofett-hod.com
