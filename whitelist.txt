@@ -441,3 +441,4 @@ accounts.nvgs.nvidia.com
 browser.pipe.aria.microsoft.com
 disney.demdex.net
 aeropress.com
+telegraph.api.hbo.com
