@@ -442,3 +442,5 @@ browser.pipe.aria.microsoft.com
 disney.demdex.net
 aeropress.com
 telegraph.api.hbo.com
+www.ftp.ne.jp
+redirector.gvt1.com
