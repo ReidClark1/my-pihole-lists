@@ -444,3 +444,5 @@ aeropress.com
 telegraph.api.hbo.com
 www.ftp.ne.jp
 redirector.gvt1.com
+int.down.360safe.com
+360safe.com
