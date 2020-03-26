@@ -447,3 +447,6 @@ redirector.gvt1.com
 int.down.360safe.com
 360safe.com
 api.ipify.org
+salesforce.com
+beacon.krxd.net
+consumer.krxd.net
