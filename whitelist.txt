@@ -450,3 +450,4 @@ api.ipify.org
 salesforce.com
 beacon.krxd.net
 consumer.krxd.net
+fortinet.my.salesforce.com
