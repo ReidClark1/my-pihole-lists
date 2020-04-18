@@ -452,3 +452,9 @@ beacon.krxd.net
 consumer.krxd.net
 fortinet.my.salesforce.com
 bitbucket.org
+ichnaea.netflix.com
+vortex.hulu.com
+cws-hulu.conviva.com
+doppler.hulu.com
+t2.hulu.com
+ads-e-darwin.hulustream.com
