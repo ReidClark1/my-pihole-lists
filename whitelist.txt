@@ -459,3 +459,4 @@ doppler.hulu.com
 t2.hulu.com
 ads-e-darwin.hulustream.com
 competitive.ftnt.io
+beacons2.gvt2.com
